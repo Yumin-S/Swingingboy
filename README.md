@@ -5,6 +5,6 @@
 - 📫 Please contact me by sending email to yumin.sun@alumni.ucl.ac.uk.
 
 <!---
-Swingingboy/Swingingboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yumin-S/Yumin-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
